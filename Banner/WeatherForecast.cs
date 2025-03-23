@@ -1,6 +1,8 @@
 // Models/Banner.cs
 namespace Firstwebapi.Models
 {
+
+
     public class Banner
     {
         public int Id { get; set; }
